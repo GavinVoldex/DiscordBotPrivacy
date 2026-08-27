@@ -46,4 +46,4 @@ This policy may be updated. Changes will be reflected in this file, with the "La
 
 ## Contact
 
-Questions, concerns, or data deletion requests can be sent to: **Gavineo**
+Questions, concerns, or data deletion requests can be sent to: **NFL UF Discord Ticket**
