@@ -38,7 +38,3 @@ https://discord.com/privacy
 Changes
 
 This policy may be updated. Changes will be reflected in this file, with the "Last updated" date revised.
-
-Contact
-
-Questions, concerns, or data deletion requests can be sent to: [your contact here]
